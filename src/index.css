@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+  --font-primary: "Onest", "serif";
+
+
+  --breakpoint-xl: 1600px;
+  --breakpoint-md: 1192px;
+ 
+
+
+  --color-primary: #090B1B;
+  --color-secondary: #10132B;
+  --color-secondary-hover: #1B1F40;
+  --color-footer: #070814;
+  --color-tranding: #090B1B;
+  --color-brand: #1548F3;
+  --color-white: #FFFFFF;
+  --color-blue: #406DFF;
+  --color-light-blue: #94ADFF;
+  --color-gray: #7B88B8;
+  --color-btn-hover: #406DFF;
+  --color-btn-active: #0230CA;
+  --ease-fluid: cubic-bezier(0.3, 0, 0, 1);
+  --ease-snappy: cubic-bezier(0.2, 0, 0, 1);
+
+}
+
